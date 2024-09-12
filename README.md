@@ -1,5 +1,6 @@
 # AI-Driven-Gamified-Platform-for-Space-Mission-Training
 
+
 ### Project Overview
 This project proposes the development of an innovative gamified platform designed to train astronauts and mission control teams in handling space mission scenarios. The platform will combine elements of virtual space missions and educational escape rooms to simulate critical incidents such as spacecraft malfunctions, spacewalk emergencies, and unexpected cosmic events.
 
